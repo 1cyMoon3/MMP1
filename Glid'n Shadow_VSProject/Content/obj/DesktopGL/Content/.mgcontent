@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Arrow.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Button.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/ButtonHover.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Fonts/Aclonica160.spritefont</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Fonts/Aclonica80.spritefont</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Fonts/MontserratMedium30.spritefont</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Fonts/MontserratMedium40.spritefont</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Fonts/MontserratMedium60.spritefont</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Fonts/MontserratRegular30.spritefont</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map1/BackgroundMusic.mp3</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map1/Layer_0.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map1/Layer_1.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map1/Layer_2.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map1/Layer_3.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map1/Layer_4.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map1/Layer_5.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map1/Layer_6.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map1/Layer_7.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map2/BackgroundMusic.mp3</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map2/Layer_0.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map2/Layer_1.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map2/Layer_2.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map2/Layer_3.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map2/Layer_4.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map2/Layer_5.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map3/BackgroundMusic.mp3</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map3/Layer_0.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map3/Layer_1.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map3/Layer_2.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map3/Layer_3.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map3/Layer_4.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map3/Layer_5.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map3/Layer_6.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map3/Layer_7.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Maps/Map3/Layer_8.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/menuBackground.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/MenuMusic.mp3</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Overlays/you_died.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Overlays/you_lose.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Overlays/you_win.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Player/Sounds/death.wav</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Player/Sounds/jump.wav</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Player/Sprite/die.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Player/Sprite/fall.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Player/Sprite/glide.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Player/Sprite/idle.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Player/Sprite/jump.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Player/Sprite/run.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Tiles/Block.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Tiles/Death1.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Tiles/Death2.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Tiles/Exit.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Tiles/Ground.png</File>
+    <File>E:/Studium/MMP/Glid'n Shadow/Content/Tiles/Platform.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

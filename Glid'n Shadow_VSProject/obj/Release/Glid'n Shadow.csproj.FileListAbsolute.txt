@@ -1,0 +1,86 @@
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll.config
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map4\Layer_9.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\Layer_0.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\Layer_1.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\Layer_2.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\Layer_3.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\Layer_4.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\Layer_5.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\Layer_6.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Player\Sprite\die.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Player\Sprite\fall.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Player\Sprite\glide.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Player\Sprite\idle.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Player\Sprite\jump.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Player\Sprite\run.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map2\Layer_0.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map2\Layer_1.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map2\Layer_2.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map2\Layer_3.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map2\Layer_4.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map2\Layer_5.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Player\Sounds\death.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Player\Sounds\jump.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Tiles\Block.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Tiles\Exit.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Tiles\Ground.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Tiles\Platform.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map1\Layer_0.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map1\Layer_1.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map1\Layer_2.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map1\Layer_3.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map1\Layer_4.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map1\Layer_5.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map1\Layer_6.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map1\Layer_7.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Overlays\you_died.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Overlays\you_lose.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Overlays\you_win.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\MapContent\1.txt
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\MapContent\2.txt
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Fonts\Aclonica-Regular.ttf
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Fonts\Aclonica160.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Fonts\Aclonica80.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Fonts\Montserrat-Medium.ttf
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Fonts\Montserrat-Regular.ttf
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Fonts\MontserratMedium30.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Fonts\MontserratMedium40.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Fonts\MontserratMedium60.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Fonts\MontserratRegular30.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Button.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\ButtonHover.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\menuBackground.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\x86\SDL2.dll
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\x64\SDL2.dll
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\x86\soft_oal.dll
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\x64\soft_oal.dll
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\x86\libSDL2-2.0.so.0
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\x64\libSDL2-2.0.so.0
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\x86\libopenal.so.1
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\x64\libopenal.so.1
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\libSDL2-2.0.0.dylib
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\libopenal.1.dylib
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Glid'n Shadow.exe
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Glid'n Shadow.pdb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll
+E:\Studium\MMP\Glid'n Shadow\obj\Release\Glid'n Shadow.csprojAssemblyReference.cache
+E:\Studium\MMP\Glid'n Shadow\obj\Release\Glid'n Shadow.csproj.CoreCompileInputs.cache
+E:\Studium\MMP\Glid'n Shadow\obj\Release\Glid'n Shadow.csproj.CopyComplete
+E:\Studium\MMP\Glid'n Shadow\obj\Release\Glid'n Shadow.exe
+E:\Studium\MMP\Glid'n Shadow\obj\Release\Glid'n Shadow.pdb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\Layer_7.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\Layer_8.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\MapContent\3.txt
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Arrow.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\MapContent\4.txt
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\MapContent\5.txt
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Tiles\Death1.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Tiles\Death2.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\BackgroundMusic.ogg
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map3\BackgroundMusic.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map2\BackgroundMusic.ogg
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map2\BackgroundMusic.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map1\BackgroundMusic.ogg
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\Maps\Map1\BackgroundMusic.xnb
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\MenuMusic.ogg
+E:\Studium\MMP\Glid'n Shadow\bin\DesktopGL\AnyCPU\Release\Content\MenuMusic.xnb
